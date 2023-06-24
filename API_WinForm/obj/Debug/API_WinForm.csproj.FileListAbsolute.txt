@@ -1,0 +1,22 @@
+C:\Users\Add\Desktop\API_WinForm\bin\Debug\API_WinForm.exe.config
+C:\Users\Add\Desktop\API_WinForm\bin\Debug\API_WinForm.exe
+C:\Users\Add\Desktop\API_WinForm\bin\Debug\API_WinForm.pdb
+C:\Users\Add\Desktop\API_WinForm\obj\Debug\API_WinForm.csproj.AssemblyReference.cache
+C:\Users\Add\Desktop\API_WinForm\obj\Debug\API_WinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Add\Desktop\API_WinForm\obj\Debug\API_WinForm.Form1.resources
+C:\Users\Add\Desktop\API_WinForm\obj\Debug\API_WinForm.Properties.Resources.resources
+C:\Users\Add\Desktop\API_WinForm\obj\Debug\API_WinForm.csproj.GenerateResource.cache
+C:\Users\Add\Desktop\API_WinForm\obj\Debug\API_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Add\Desktop\API_WinForm\obj\Debug\API_WinForm.exe
+C:\Users\Add\Desktop\API_WinForm\obj\Debug\API_WinForm.pdb
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\API_WForrm\API_WinForm\bin\Debug\API_WinForm.exe.config
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\API_WForrm\API_WinForm\bin\Debug\API_WinForm.exe
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\API_WForrm\API_WinForm\bin\Debug\API_WinForm.pdb
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\API_WForrm\API_WinForm\obj\Debug\API_WinForm.csproj.AssemblyReference.cache
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\API_WForrm\API_WinForm\obj\Debug\API_WinForm.csproj.SuggestedBindingRedirects.cache
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\API_WForrm\API_WinForm\obj\Debug\API_WinForm.Form1.resources
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\API_WForrm\API_WinForm\obj\Debug\API_WinForm.Properties.Resources.resources
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\API_WForrm\API_WinForm\obj\Debug\API_WinForm.csproj.GenerateResource.cache
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\API_WForrm\API_WinForm\obj\Debug\API_WinForm.csproj.CoreCompileInputs.cache
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\API_WForrm\API_WinForm\obj\Debug\API_WinForm.exe
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\API_WForrm\API_WinForm\obj\Debug\API_WinForm.pdb
