@@ -35,6 +35,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.button_Search = new System.Windows.Forms.Button();
+            this.label2 = new System.Windows.Forms.Label();
+            this.textBox_Count = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox_Pictute)).BeginInit();
             this.flowLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
@@ -81,9 +83,9 @@
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox1.Location = new System.Drawing.Point(336, 445);
+            this.textBox1.Location = new System.Drawing.Point(325, 445);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(357, 26);
+            this.textBox1.Size = new System.Drawing.Size(290, 26);
             this.textBox1.TabIndex = 4;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
@@ -98,11 +100,31 @@
             this.button_Search.UseVisualStyleBackColor = true;
             this.button_Search.Click += new System.EventHandler(this.button_Search_Click_1);
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label2.Location = new System.Drawing.Point(621, 449);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(168, 20);
+            this.label2.TabIndex = 6;
+            this.label2.Text = "Кількість зображень:";
+            // 
+            // textBox_Count
+            // 
+            this.textBox_Count.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox_Count.Location = new System.Drawing.Point(795, 445);
+            this.textBox_Count.Name = "textBox_Count";
+            this.textBox_Count.Size = new System.Drawing.Size(70, 26);
+            this.textBox_Count.TabIndex = 7;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1072, 486);
+            this.Controls.Add(this.textBox_Count);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.button_Search);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
@@ -128,6 +150,8 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button button_Search;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox textBox_Count;
     }
 }
 
