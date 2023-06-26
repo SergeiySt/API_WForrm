@@ -20,3 +20,6 @@ D:\ДЗ_Шаг\Windows Forms C#\GitHub\API_WForrm\API_WinForm\obj\Debug\API_WinF
 D:\ДЗ_Шаг\Windows Forms C#\GitHub\API_WForrm\API_WinForm\obj\Debug\API_WinForm.csproj.CoreCompileInputs.cache
 D:\ДЗ_Шаг\Windows Forms C#\GitHub\API_WForrm\API_WinForm\obj\Debug\API_WinForm.exe
 D:\ДЗ_Шаг\Windows Forms C#\GitHub\API_WForrm\API_WinForm\obj\Debug\API_WinForm.pdb
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\API_WForrm\API_WinForm\bin\Debug\Newtonsoft.Json.dll
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\API_WForrm\API_WinForm\bin\Debug\Newtonsoft.Json.xml
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\API_WForrm\API_WinForm\obj\Debug\API_WinForm.csproj.CopyComplete
