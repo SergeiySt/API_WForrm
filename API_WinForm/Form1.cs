@@ -89,12 +89,12 @@ namespace API_WinForm
                 }
                 else
                 {
-                    Console.WriteLine("Рисунки не найдены.");
+                    MessageBox.Show("Зображення не знайдено.", "Попередження", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Ошибка при выполнении запроса: " + ex.Message);
+                MessageBox.Show("Помилка під час виконання запиту: " + ex.Message);
             }
         }
 
