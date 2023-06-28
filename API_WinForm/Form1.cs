@@ -46,7 +46,7 @@ namespace API_WinForm
 
                 string jsonResponse = await response.Content.ReadAsStringAsync();
 
-                var result = JsonConvert.DeserializeObject<PixabayResponse>(jsonResponse);
+                var result = JsonConvert.DeserializeObject<Pixabay>(jsonResponse);
 
                 if (result != null && result.hits != null && result.hits.Length > 0)
                 {
@@ -113,7 +113,7 @@ namespace API_WinForm
             }
         }
 
-        public class PixabayResponse
+        public class Pixabay
         {
             public ImageHit[] hits { get; set; }
         }
